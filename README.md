@@ -1,2 +1,1 @@
-# EmoSongs
-EmoSongs
+# EmoSong
